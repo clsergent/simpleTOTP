@@ -1,4 +1,4 @@
-# SimpleTOTP
+# simpleTOTP
 
 ## Overview
 This project provides a simple Time-based One-time Password (TOTP) generator using python3.
